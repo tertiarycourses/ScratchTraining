@@ -1,5 +1,5 @@
 # Scratch Programming
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Scratch Programming](https://www.tertiarycourses.com.sg/scratch-programming-in-singapore.html) course. 
 
